@@ -1,0 +1,10 @@
+PROG6112 Assignment Question 2
+Jordan Castling-Bolt
+17096823
+Due date- 21st September, 2021
+
+This is a speeding fine calculation program.
+Simply run the main file 'SpeedingFineApplication' 
+It will prompt you to enter your name then the speed you were doing.
+It only calculates fines where the speed limit is 120 kph 
+Enjoy:)
